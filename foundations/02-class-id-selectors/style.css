@@ -1,6 +1,11 @@
 .odds {
     background-color: #ffc0cb;
-    font-family: Verdana, "Deja Vu", sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+
+.size24 {
+    font-size: 24px;
 }
 
 #second {
@@ -10,6 +15,5 @@
 
 #fourth {
     background-color: #90ee90;
-    font-size: 24px;
     font-weight: bold;
 }
